@@ -1,4 +1,3 @@
-JavaFX Lab 1
 
 Description
 
@@ -47,5 +46,5 @@ Lab Requirements Completed
 
 Student
 
-Name: Your Name
-Student Number: Your Student Number
+Name: Hillary N. Nyumbu 
+student number 202503347
